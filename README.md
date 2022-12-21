@@ -7,9 +7,13 @@ This repository maintains the course contents and materials for **Operating Syst
 ##### :teacher: Course Co-Instructor:  Dr. Praveen K, Assistant Professor, TIFAC-CORE in Cyber Security.
 ##### :teacher: Course Co-Instructor:  Ramaguru R, Assistant Professor, TIFAC-CORE in Cyber Security.
 
-## Lab Classes
+## 21CYS - Lab Classes
 
-- 15-Sept-2022: Basic Linux Commands
-- 22-Sept-2022: Linux Commands
-- 29-Sept-2022: Shell Scripting
-- 03-Nov-2022: System Calls 
+- 15 - Sept - 2022: Basic Linux Commands
+- 22 - Sept - 2022: Linux Commands
+- 29 - Sept - 2022: Shell Scripting
+- 03 - Nov - 2022: System Calls 
+- 17 - Nov - 2022: Shared Memory and Message Passing
+- 21 - Nov - 2022: Scheduling Algorithm
+- 01 - Dec - 2022: Scheduling Algorithm
+- 22 - Dec - 2022: [Multithreading in C](Assets/MultiThreading)
